@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176706709644",
+    "project_id": "real-estate-app-dc1a3",
+    "storage_bucket": "real-estate-app-dc1a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176706709644:android:d2db2c74bf3680033fb3a9",
+        "android_client_info": {
+          "package_name": "com.example.majek_real_estate_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDalSded84nt3x8RUuI-sT4x2E_hQeOABA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
